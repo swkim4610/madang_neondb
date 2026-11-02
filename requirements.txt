@@ -1,3 +1,4 @@
+pytz
 streamlit
 sqlalchemy
 psycopg2-binary
